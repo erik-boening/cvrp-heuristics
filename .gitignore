@@ -1,0 +1,10 @@
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Benchmark datasets
+data/
